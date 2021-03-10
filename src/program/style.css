@@ -1,0 +1,22 @@
+.container {
+    border: solid 1px black;
+    display: flex;    
+    width: 50%;
+    flex-direction: row;
+}
+.description {
+    border: solid 1px black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 75%;
+    padding: 10px;
+}
+
+.difference {
+    border: solid 1px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
